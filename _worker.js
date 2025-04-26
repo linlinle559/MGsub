@@ -467,12 +467,12 @@ export default {
         // 定义主题
         const themes = {
 			1: {
-				primaryColor: '#f59e0b',  // 琥珀橙
-				hoverColor: '#d97706',
-				bgColor: '#fff7ed',
-				cardBg: '#fed7aa',
-				gradientColor: 'rgba(245,158,11, 0.8)',
-				qrColor: '#f59e0b'
+				primaryColor: '#f4a261',  // 琥珀橙
+				hoverColor: '#e07630',
+				bgColor: '#fce4d6',
+				cardBg: '#555555',
+				gradientColor: 'rgba(252,228,214, 0.8)',
+				qrColor: '#f4a261'
 			},
 			2: {
 				primaryColor: '#292524',  // 深褐黑
