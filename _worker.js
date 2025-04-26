@@ -1110,8 +1110,8 @@ async function subHtml(request, theme) {
 						/* 使用rgba设置半透明背景 */
 						background: rgba(255, 255, 255, 0.1);
 						/* 添加磨砂玻璃效果 */
-						backdrop-filter: blur(6px);
-						-webkit-backdrop-filter: blur(6px); /* Safari兼容 */
+						backdrop-filter: blur(1px);
+						-webkit-backdrop-filter: blur(1px); /* Safari兼容 */
 						max-width: 600px;
 						width: 90%;
 						padding: 2rem;
